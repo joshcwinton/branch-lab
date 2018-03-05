@@ -1,6 +1,5 @@
 #include <iostream>
 #include "doctest.h"
-
 #include "triangles.h"
 
 
